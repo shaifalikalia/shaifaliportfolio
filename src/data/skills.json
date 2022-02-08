@@ -1,0 +1,19 @@
+{
+  "skills": [
+    { "skillName": "React Native", "class": "devicon-react-original" },
+    { "skillName": "Angularjs", "class": "devicon-angularjs-plain-wordmark" },
+    { "skillName": "Javascript", "class": "devicon-javascript-plain" },
+    { "skillName": "Ionic", "class": "devicon-ionic-original" },
+    { "skillName": "React.js", "class": "devicon-react-original" },
+    { "skillName": "AngularJS", "class": "devicon-angularjs-plain" },
+    { "skillName": "HTML", "class": "devicon-html5-plain" },
+    { "skillName": "CSS", "class": "devicon-css3-plain" },
+    { "skillName": "Bootstrap", "class": "devicon-bootstrap-plain" },
+    { "skillName": "Jquery", "class": "devicon-jquery-plain" },
+    { "skillName": "Github", "class": "devicon-github-original" },
+    { "skillName": "Bitbucket", "class": "devicon-bitbucket-original" },
+    { "skillName": "Trello", "class": "devicon-trello-plain" },
+    { "skillName": "JIRA", "class": "devicon-jira-plain" },
+    { "skillName": "Heroku", "class": "devicon-heroku-original" }
+  ]
+}

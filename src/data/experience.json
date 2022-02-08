@@ -1,0 +1,45 @@
+{
+  "experience": [
+    {
+      "id": 1,
+      "link": "https://logiciel.io/",
+      "company": "Logiciel Solutions",
+      "title": "Associative Developer",
+      "dateFrom": "Jan 2016",
+      "dateTo": "Mar 2021",
+      "info": [
+        "Evalute all new tools and performs tests on all new and update modules.",
+        "Perform regular analysis on all process activities."
+      ],
+      "stack": [
+        "Angularjs",
+        "Javascript",
+        "jQuery"
+      ],
+      "logowidth": 80,
+      "colourPrimary": "linear-gradient(to bottom, #a31013, #ed4043)",
+      "colourSecondary": "linear-gradient(to bottom, #a31013, #ed4043)"
+    },
+    {
+      "id": 0,
+      "link": "https://logiciel.io/",
+      "company": "Logiciel Solutions",
+      "title": "Software Developer",
+      "dateFrom": "Mar 2021",
+      "dateTo": "Current",
+      "info": [
+        "Produce clean, efficient code based on specifications.",
+        "Training to Freshers."
+      ],
+      "stack": [
+        "React.js",
+        "AngularJS",
+        "Javascript",
+        "Firebase"
+      ],
+      "logoheight": 80,
+      "colourPrimary": "linear-gradient(to bottom, #62cd70, #cfefd1)",
+      "colourSecondary": "linear-gradient(to bottom, #62cd70, #cfefd1)"
+    }
+  ]
+}
