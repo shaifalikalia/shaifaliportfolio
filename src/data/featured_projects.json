@@ -1,0 +1,27 @@
+{
+  "featured_projects": [
+    {
+      "id": 0,
+      "name": "JobProgress",
+      "link": "https://apps.apple.com/in/app/jobprogress/id1063635242",
+      "description": "JOBPROGRESS is a tool for contractors that allow you to manage your entire business & estimate, invoice, organize, communicate, and manage customers & jobs from anywhere.",
+      "colour": "linear-gradient(to top, rgb(0, 122, 65),rgb(37, 207, 108))",
+      "languages": [
+        { "name": "Jquery", "color": "rgb(241, 224, 90)" },
+        { "name": "Wordpress", "color": "rgb(100, 219, 255)" }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Saarthi",
+      "link": "https://play.google.com/store/apps/details?id=io.ionic.saarthi",
+      "description": "Saarthi manages B2B online for wholesale garments. This provides easy way to take stock from different hosiery parteners",
+      "colour": "linear-gradient(to bottom right, rgb(193, 56, 85),rgb(230, 162, 53))",
+      "languages": [
+        { "name": "JavaScript", "color": "rgb(241, 224, 90)" },
+        { "name": "CSS", "color": "rgb(86, 61, 124)" },
+        { "name": "UX/UI", "color": "white" }
+      ]
+    }
+  ]
+}
