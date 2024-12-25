@@ -7,7 +7,6 @@ import linkedin from '../../images/social/linkedin.png'
 import github from '../../images/social/github.png'
 // import facebook from '../../images/social/facebook.png'
 import twitter from '../../images/social/twitter.png'
-import Stackoverflow from '../../images/social/stackoverflow.png'
 
 const Contact = () => {
   return (

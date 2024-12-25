@@ -3,25 +3,103 @@
     {
       "id": 0,
       "name": "JobProgress",
-      "link": "https://apps.apple.com/in/app/jobprogress/id1063635242",
+      "link": "hhttps://www.jobprogress.com/",
       "description": "JOBPROGRESS is a tool for contractors that allow you to manage your entire business & estimate, invoice, organize, communicate, and manage customers & jobs from anywhere.",
       "colour": "linear-gradient(to top, rgb(0, 122, 65),rgb(37, 207, 108))",
       "languages": [
-        { "name": "Jquery", "color": "rgb(241, 224, 90)" },
-        { "name": "Wordpress", "color": "rgb(100, 219, 255)" }
-      ]
+        { "name": "Jquery", "color": "#0868AC" },
+        { "name": "Angular", "color": "#dd1b16" },
+        { "name": "React.js", "color": "#5fd3f3" }
+      ],
+      "type": "web"
     },
     {
-      "id": 2,
+      "id": 1,
       "name": "Saarthi",
       "link": "https://play.google.com/store/apps/details?id=io.ionic.saarthi",
       "description": "Saarthi manages B2B online for wholesale garments. This provides easy way to take stock from different hosiery parteners",
       "colour": "linear-gradient(to bottom right, rgb(193, 56, 85),rgb(230, 162, 53))",
       "languages": [
-        { "name": "JavaScript", "color": "rgb(241, 224, 90)" },
-        { "name": "CSS", "color": "rgb(86, 61, 124)" },
-        { "name": "UX/UI", "color": "white" }
-      ]
+        { "name": "React.js", "color": "#5fd3f3" },
+        { "name": "Node.js", "color": "#68A063" },
+        { "name": "Redux", "color": "#764abc" }
+      ],
+      "type": "web"
+    },
+    {
+      "id": 2,
+      "name": "GSF Carparts 🌐",
+      "link": "https://www.gsfcarparts.com/",
+      "description": "GSF Car Parts you’ll find all of the car parts, accessories, batteries, oils and tools you could possibly need to keep your vehicle running smoothly.",
+      "colour": "linear-gradient(to bottom right, rgb(193, 56, 85),rgb(230, 162, 53))",
+      "languages": [
+        { "name": "Next.js", "color": "#5fd3f3" },
+        {
+          "name": "GraphQL",
+          "color": "#dd34a6"
+        },
+        { "name": "Redux", "color": "#764abc" }
+      ],
+      "type": "web"
+    },
+    {
+      "id": 3,
+      "name": "Gemini",
+      "link": "https://www.gemini.com/",
+      "description": "Gemini is a next generation cryptocurrency platform that allows customers to buy, sell, stake, and store crypto.",
+      "colour": "linear-gradient(to bottom right, rgb(193, 56, 85),rgb(230, 162, 53))",
+      "languages": [
+        { "name": "Next.js", "color": "#5fd3f3" },
+        {
+          "name": "Contentful",
+          "color": "#dd34a6"
+        }
+      ],
+      "type": "web"
+    },
+    {
+      "id": 4,
+      "name": "Miraxis 📱,🌐",
+      "link": "https://healthhub.miraxis.com/",
+      "description": "Miraxis Platform empower healthcare professionals to connect, collaborate, and thrive by automating day-to-day workflows and creating a connected healthcare community.",
+      "colour": "linear-gradient(to bottom right, rgb(193, 56, 85),rgb(230, 162, 53))",
+      "languages": [
+        { "name": "React.js", "color": "#5fd3f3" },
+        { "name": "Dot Net", "color": "#68A063" },
+        { "name": "React Native", "color": "#61DBFB" },
+        { "name": "Redux", "color": "#764abc" }
+      ],
+      "type": "stack"
+    },
+    {
+      "id": 5,
+      "name": "Hospitals Connect 📱,🌐",
+      "description": "HospitalsConnect is a listing directory platform connecting people with hospitals, laboratories and health care providers generally. (Services provided in Nigeria only)",
+      "colour": "linear-gradient(to bottom right, rgb(193, 56, 85),rgb(230, 162, 53))",
+      "link": "https://apps.apple.com/us/app/hospitals-connect-app/id6443836490",
+      "languages": [
+        {
+          "name": "React.js",
+          "color": "#5fd3f3"
+        },
+        {
+          "name": "Firebase",
+          "color": "#FFFF00"
+        },
+        {
+          "name": "React Native",
+          "color": "#61DBFB"
+        },
+        {
+          "name": "Node.js",
+          "color": "#68A063"
+        },
+        {
+          "name": "Vercel",
+          "color": "#000"
+        }
+      ],
+      "type": "stack"
     }
   ]
 }

@@ -5,7 +5,6 @@
     { "skillName": "Javascript", "class": "devicon-javascript-plain" },
     { "skillName": "Ionic", "class": "devicon-ionic-original" },
     { "skillName": "React.js", "class": "devicon-react-original" },
-    { "skillName": "AngularJS", "class": "devicon-angularjs-plain" },
     { "skillName": "HTML", "class": "devicon-html5-plain" },
     { "skillName": "CSS", "class": "devicon-css3-plain" },
     { "skillName": "Bootstrap", "class": "devicon-bootstrap-plain" },
@@ -14,6 +13,17 @@
     { "skillName": "Bitbucket", "class": "devicon-bitbucket-original" },
     { "skillName": "Trello", "class": "devicon-trello-plain" },
     { "skillName": "JIRA", "class": "devicon-jira-plain" },
-    { "skillName": "Heroku", "class": "devicon-heroku-original" }
+    { "skillName": "Heroku", "class": "devicon-heroku-original" },
+    { "skillName": "Next.JS", "class": "devicon-nextjs-plain" },
+    { "skillName": "Redux", "class": "devicon-redux-original" },
+    { "skillName": "Typescript", "class": "devicon-javascript-plain" },
+    { "skillName": "Node JS", "class": "devicon-nodejs-plain-wordmark" },
+    { "skillName": "GraphQL", "class": "devicon-graphql-plain" },
+    { "skillName": "Axios", "class": "devicon-axios-plain-wordmark" },
+    { "skillName": "Gitlab", "class": "devicon-gitlab-plain" },
+    { "skillName": "JIRA", "class": "devicon-jira-plain" },
+    { "skillName": "Vercel", "class": "devicon-vercel-original" },
+    { "skillName": "NPM", "class": "devicon-npm-original-wordmark" },
+    { "skillName": "Firebase", "class": "devicon-firebase-plain" }
   ]
 }
