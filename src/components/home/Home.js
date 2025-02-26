@@ -34,7 +34,7 @@ const Home = () => {
               <Typewriter
                 options={{
                   strings: [
-                    'I like to design things.',
+                    'I like to develep things.',
                     'I love learning new tech.',
                     'I love meeting new people.',
                   ],
@@ -49,7 +49,7 @@ const Home = () => {
             <Bounce cascade>
               <div className="resume-container">
                 <a 
-                  href="https://drive.google.com/file/d/1u6xVbEMmXQHldupUzaQTQc845aWOxr8c/view?usp=sharing"
+                  href="https://drive.google.com/file/d/1bVi6rUZzdRhAVZuZIYUsoAtAsRsXt-GI/view?usp=sharing"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
